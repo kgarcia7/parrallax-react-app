@@ -5,7 +5,8 @@ const ImageThree = () => (
   <Parallax className="image" bgImage={BeachThree} strength={800}>
     <div className="content">
       <span className="img-txt">
-        Lost in the rhythm of the waves, found in the beauty of the shore.
+        Embrace the tranquil symphony of crashing waves and gentle breezes,
+        where time pauses to let you savor the moment.
       </span>
     </div>
   </Parallax>
